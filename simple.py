@@ -2,12 +2,12 @@ from Tkinter import *
 from turtle import *
 import turtle 
 
-screen = turtle.Screen()
-width = 5
-print screen.window_width()
-print xcor()
-fd(310)
-print xcor()
+#screen = turtle.Screen()
+#width = 5
+#print screen.window_width()
+#print xcor()
+#fd(310)
+#print xcor()
 
 setx( xcor() + 10)
 print xcor() 
